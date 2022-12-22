@@ -1,10 +1,10 @@
 # Tensorflow-Specialisation
-All slides are from : DeepLearning.AI
+All slides are from : [DeepLearning.AI](https://www.deeplearning.ai/)
 
 
 ## Course 1: Introduction to TensorFlow for AI, ML and DL
 
-This first course introduces you to Tensor Flow, a popular machine learning framework. You will learn how to build a basic neural network for computer vision and use convolutions to improve your neural network.
+This first course introduces you to Tensorflow, a popular machine learning framework. You will learn how to build a basic neural network for computer vision and use convolutions to improve your neural network.
 
 #### Week 1: A New Programming Paradigm
 
