@@ -1,5 +1,5 @@
 # Tensorflow-Specialisation
-All slides are from : [DeepLearning.AI]([https://link-url-here.org](https://www.deeplearning.ai/))
+All slides are from : [DeepLearning.AI](https://www.deeplearning.ai/)
 
 
 ## Course 1: Introduction to TensorFlow for AI, ML and DL
