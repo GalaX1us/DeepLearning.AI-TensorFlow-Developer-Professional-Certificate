@@ -4,9 +4,11 @@
 
 
 # Tensorflow-Specialization
-All slides are from : [DeepLearning.AI](https://www.deeplearning.ai/)
 
 [<img src="https://github.com/GalaX1us/Tensorflow-Specialisation/blob/main/Specialization%20Certificate.jpg" />](https://www.coursera.org/account/accomplishments/professional-cert/DW4E47MGPHE8)
+
+All slides are from : [DeepLearning.AI](https://www.deeplearning.ai/)
+
 
 ## Course 1: Introduction to TensorFlow for AI, ML and DL
 
