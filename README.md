@@ -2,9 +2,6 @@
 
 [DeepLearning.AI TensorFlow Developer Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 
-
-# Tensorflow-Specialization
-
 [<img src="https://github.com/GalaX1us/Tensorflow-Specialisation/blob/main/Specialization%20Certificate.jpg" />](https://www.coursera.org/account/accomplishments/professional-cert/DW4E47MGPHE8)
 
 All slides are from : [DeepLearning.AI](https://www.deeplearning.ai/)
